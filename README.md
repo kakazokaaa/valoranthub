@@ -8,28 +8,11 @@ O Valorant Hub é um bot do Discord que fornece informações sobre Valorant, um
 
 ## Comandos
 
-![](https://s9.gifyu.com/images/ezgif.com-video-to-gif6431e0d99932392a.gif)
+![](https://gifyu.com/images/ezgif.com-crop-1.gif)
 
-### Valorant
-
-![](https://s9.gifyu.com/images/ezgif.com-video-to-gif34ed69f8c9c3ec0d.gif)
-
-### Lore
-
-![](https://s9.gifyu.com/images/ezgif.com-video-to-gif34ed69f8c9c3ec0d.gif)
-
-### Mapas
-
-![](https://s9.gifyu.com/images/ezgif.com-video-to-gif34ed69f8c9c3ec0d.gif)
-
-### Roles
-
-![](https://s9.gifyu.com/images/ezgif.com-video-to-gif34ed69f8c9c3ec0d.gif)
-
-### Agentes
-
-![](https://s9.gifyu.com/images/ezgif.com-video-to-gif34ed69f8c9c3ec0d.gif)
-
-### Armas
-
-![](https://s9.gifyu.com/images/ezgif.com-video-to-gif34ed69f8c9c3ec0d.gif)
+- Valorant
+- Lore
+- Mapas
+- Roles
+- Agentes
+- Armas
