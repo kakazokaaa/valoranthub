@@ -30,6 +30,6 @@ O Valorant Hub é um bot do Discord que fornece informações sobre Valorant, um
 
 ![](https://www.imagemhost.com.br/images/2023/03/05/agentes.png)
 
-###Armas
+### Armas
 
 ![](https://www.imagemhost.com.br/images/2023/03/05/armas.png)
